@@ -1,0 +1,25 @@
+:root {
+  --primary-text-color: #212121;
+  --secondary-text-color: #757575;
+
+  --accent-color: #2196f3;
+  --primary-white-color: #ffffff;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.logo {
+  color: var(--accent-color);
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 0.8;
+  text-decoration: none;
+}
+.nav-link {
+  color: var(--primary-text-color);
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 0.8;
+}
